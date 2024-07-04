@@ -17,7 +17,7 @@ To send messages, you need your chat ID. Use the following code to get it.
 
 ### 3. Send Notifications from Google Colab
 
-Use the following function to send messages to your Telegram chat
+Use the following function to send messages to your Telegram chat.
 
 ### Example: Integrating with Google Colab
 
@@ -34,13 +34,17 @@ send_telegram_message('Training completed! Check your results.')
 - Test your setup by sending a few test messages.
 - Remember to handle your API token securely and do not expose it publicly.
 
+## Technologies Used
+- Python
+- requests
+- Telegram Bot API
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-If you have suggestions for improving this repository, please feel free to submit a pull request or open an issue.
+## Authors
+- [KastoneX](https://github.com/kastonex)
 
 ## Acknowledgements
 
@@ -49,3 +53,8 @@ Special thanks to the Telegram Bot API documentation and the Python Requests lib
 ---
 
 By following these steps, you'll be able to receive timely notifications from your Google Colab environment directly in your Telegram chat. Happy coding!
+
+
+## Get in touch
+
+<p> <a href="mailto:timofeevkarakozovartem@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://t.me/kastonex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://www.kaggle.com/kastonex" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a></p>
