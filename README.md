@@ -1,4 +1,4 @@
-# Colab-notifications-in-telegram
+# Google Colab to Telegram Notifications
 
 This repository demonstrates how to send notifications from Google Colab to Telegram using a bot. Follow the steps below to get started.
 
