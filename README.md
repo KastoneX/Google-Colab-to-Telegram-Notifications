@@ -1,6 +1,6 @@
 # Google Colab to Telegram Notifications
 
-This repository demonstrates how to send notifications from Google Colab to Telegram using a bot. Follow the steps below to get started.
+This repository demonstrates how to send notifications from Google Colab to Telegram using a bot. Notifications are sent upon the completion of a cell's execution, allowing you to track the progress of your work seamlessly. Follow the steps below to get started.
 
 ## Setup Guide
 
